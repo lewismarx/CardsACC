@@ -9,9 +9,14 @@ import java.util.ArrayList;
 import java.util.List;
         import java.util.Random;
 /**
- * @author lewis
+ * @author lewism
  *
- */
+ * @params none
+ *
+ * Don't look at me!!
+ *
+ **/
+
 public class Card {
 
     Random ran1 = new Random();	// Random Class used for a RNG
